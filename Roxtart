@@ -8,7 +8,7 @@ local ImageLabel = Instance.new("ImageLabel")
 
 --Properties:
 
-ScreenGui.Parent = game.Workspace
+ScreenGui.Parent = game.CoreGui
 ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 ImageLabel.Parent = ScreenGui
